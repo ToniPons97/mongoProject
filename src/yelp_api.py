@@ -2,10 +2,10 @@ import requests
 from dotenv import load_dotenv
 import os
 import json
+import pandas as pd
 
 load_dotenv()
 search_url = "https://api.yelp.com/v3/businesses/search"
-match_url = "https://api.yelp.com/v3/businesses/matches"
 api_key = os.getenv("YELP_API_KEY")
 headers = {'Authorization': 'Bearer %s' % api_key}
 
@@ -17,15 +17,38 @@ def get_coords(company, city):
     api_response = json.loads(req.text)
 
     coords = []
+    names = []
+    city = []
+    yelp_rating = []
+    yelp_dict = {}
+    coords_list = []
+    coords_2 = []
 
     for i in api_response["businesses"]:
         coords.append(i["coordinates"])
+        names.append(i["name"])
+        city.append(i["location"]["city"])
+        yelp_rating.append(i["rating"])
 
-    print(api_response)
+    #print(api_response)
+    for i in coords:
+        coords_list.append([i["longitude"], i["latitude"]])
 
-    return coords
+    for i in range(len(coords_list)):
+        longitude = coords_list[i][0]
+        latitude = coords_list[i][1]
+        coords_2.append({"Type":"Point", "coordinates":[longitude,latitude]})
+        
+    yelp_dict = {"Name":names,"City":city,"Raiting":yelp_rating,"Coordinates":coords_2}
+
+
+    return pd.DataFrame(yelp_dict)
 
 
 
 
-print(get_coords("Rockstar Games", "New York City"))
+
+
+
+
+print(get_coords("Starbucks", "Los Angeles"))
