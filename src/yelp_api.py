@@ -42,4 +42,3 @@ def get_coords(company, city):
 
     return pd.DataFrame(yelp_dict)
 
-print(get_coords("Starbucks", "los angeles"))
