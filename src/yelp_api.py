@@ -30,7 +30,6 @@ def get_coords(company, city):
         city.append(i["location"]["city"])
         yelp_rating.append(i["rating"])
 
-    #print(api_response)
     for i in coords:
         coords_list.append([i["longitude"], i["latitude"]])
 
@@ -42,3 +41,5 @@ def get_coords(company, city):
     yelp_dict = {"Name":names,"City":city,"Raiting":yelp_rating,"Coordinates":coords_list,"Geometry":coords_2}
 
     return pd.DataFrame(yelp_dict)
+
+print(get_coords("Starbucks", "los angeles"))
