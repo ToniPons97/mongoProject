@@ -1,0 +1,10 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Framingham,3.5,"[-71.422285, 42.298865]","{'Type': 'Point', 'coordinates': [-71.422285, 42.298865]}"
+Starbucks,Framingham,1.5,"[-71.427233, 42.312296]","{'Type': 'Point', 'coordinates': [-71.427233, 42.312296]}"
+Starbucks,Framingham,3.0,"[-71.39771, 42.305603]","{'Type': 'Point', 'coordinates': [-71.39771, 42.305603]}"
+Starbucks,Framingham,3.0,"[-71.395924, 42.299817]","{'Type': 'Point', 'coordinates': [-71.395924, 42.299817]}"
+Starbucks,Natick,3.0,"[-71.387105, 42.298067]","{'Type': 'Point', 'coordinates': [-71.387105, 42.298067]}"
+Starbucks,Natick,2.5,"[-71.384126, 42.300666]","{'Type': 'Point', 'coordinates': [-71.384126, 42.300666]}"
+Starbucks,Wayland,3.5,"[-71.364057, 42.31709]","{'Type': 'Point', 'coordinates': [-71.364057, 42.31709]}"
+Starbucks,Sudbury,2.5,"[-71.430055, 42.359224]","{'Type': 'Point', 'coordinates': [-71.430055, 42.359224]}"
+Starbucks,Natick,3.0,"[-71.338877, 42.302697]","{'Type': 'Point', 'coordinates': [-71.338877, 42.302697]}"

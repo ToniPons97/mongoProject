@@ -1,0 +1,11 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Milwaukee,4.0,"[-88.002267, 43.148258]","{'Type': 'Point', 'coordinates': [-88.002267, 43.148258]}"
+Starbucks,Menomonee Falls,2.5,"[-88.106486, 43.170481]","{'Type': 'Point', 'coordinates': [-88.106486, 43.170481]}"
+Starbucks,Brookfield,2.5,"[-88.067055, 43.08921]","{'Type': 'Point', 'coordinates': [-88.067055, 43.08921]}"
+Starbucks,Wauwatosa,3.0,"[-88.051441, 43.073401]","{'Type': 'Point', 'coordinates': [-88.051441, 43.073401]}"
+Starbucks,Menomonee Falls,4.0,"[-88.129018, 43.189495]","{'Type': 'Point', 'coordinates': [-88.129018, 43.189495]}"
+Starbucks,Wauwatosa,3.5,"[-88.048405, 43.068366]","{'Type': 'Point', 'coordinates': [-88.048405, 43.068366]}"
+Starbucks,Germantown,2.5,"[-88.131766, 43.192932]","{'Type': 'Point', 'coordinates': [-88.131766, 43.192932]}"
+Starbucks,Milwaukee,3.0,"[-87.983499, 43.090203]","{'Type': 'Point', 'coordinates': [-87.983499, 43.090203]}"
+Starbucks,Milwaukee,2.5,"[-88.044549, 43.063879]","{'Type': 'Point', 'coordinates': [-88.044549, 43.063879]}"
+Starbucks,Brookfield,2.5,"[-88.149253, 43.0899591820484]","{'Type': 'Point', 'coordinates': [-88.149253, 43.0899591820484]}"

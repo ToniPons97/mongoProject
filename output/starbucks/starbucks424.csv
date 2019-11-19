@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,New Haven,3.5,"[-72.9240224137902, 41.3078772966123]","{'Type': 'Point', 'coordinates': [-72.9240224137902, 41.3078772966123]}"
+Starbucks,New Haven,3.5,"[-72.930278, 41.307803]","{'Type': 'Point', 'coordinates': [-72.930278, 41.307803]}"
+Starbucks,West Haven,5.0,"[-72.956458, 41.272139]","{'Type': 'Point', 'coordinates': [-72.956458, 41.272139]}"
+Starbucks,Woodbridge,2.5,"[-72.977757, 41.340197]","{'Type': 'Point', 'coordinates': [-72.977757, 41.340197]}"
+Starbucks,West Haven,3.0,"[-72.97258, 41.271372]","{'Type': 'Point', 'coordinates': [-72.97258, 41.271372]}"
+Starbucks,Orange,5.0,"[-72.987735, 41.280145]","{'Type': 'Point', 'coordinates': [-72.987735, 41.280145]}"
+Starbucks,North Haven,1.5,"[-72.871769, 41.350834]","{'Type': 'Point', 'coordinates': [-72.871769, 41.350834]}"
+Starbucks,Hamden,2.5,"[-72.918962, 41.37055]","{'Type': 'Point', 'coordinates': [-72.918962, 41.37055]}"

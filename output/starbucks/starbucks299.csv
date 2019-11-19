@@ -1,0 +1,12 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Marlborough,3.0,"[-71.546432, 42.346283]","{'Type': 'Point', 'coordinates': [-71.546432, 42.346283]}"
+Starbucks,Marlborough,2.5,"[-71.5891846413291, 42.3387557229297]","{'Type': 'Point', 'coordinates': [-71.5891846413291, 42.3387557229297]}"
+Starbucks,Marlborough,1.0,"[-71.505234, 42.3487]","{'Type': 'Point', 'coordinates': [-71.505234, 42.3487]}"
+Starbucks,Marlborough,1.0,"[-71.607237, 42.359572]","{'Type': 'Point', 'coordinates': [-71.607237, 42.359572]}"
+Starbucks,Southborough,3.0,"[-71.519892, 42.292165]","{'Type': 'Point', 'coordinates': [-71.519892, 42.292165]}"
+Starbucks,Westborough,3.5,"[-71.609897, 42.284544]","{'Type': 'Point', 'coordinates': [-71.609897, 42.284544]}"
+Starbucks,Sudbury,2.5,"[-71.430055, 42.359224]","{'Type': 'Point', 'coordinates': [-71.430055, 42.359224]}"
+Starbucks,Framingham,1.5,"[-71.427233, 42.312296]","{'Type': 'Point', 'coordinates': [-71.427233, 42.312296]}"
+Starbucks,Westborough,1.0,"[-71.655947, 42.28027]","{'Type': 'Point', 'coordinates': [-71.655947, 42.28027]}"
+Starbucks,Northborough,3.0,"[-71.668772, 42.286501]","{'Type': 'Point', 'coordinates': [-71.668772, 42.286501]}"
+Starbucks,Framingham,3.5,"[-71.422285, 42.298865]","{'Type': 'Point', 'coordinates': [-71.422285, 42.298865]}"

@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Solon,3.5,"[-81.436232, 41.384214]","{'Type': 'Point', 'coordinates': [-81.436232, 41.384214]}"
+Starbucks,Aurora,2.5,"[-81.386765, 41.354355]","{'Type': 'Point', 'coordinates': [-81.386765, 41.354355]}"
+Starbucks,Chargrin Falls,3.5,"[-81.392264, 41.431421]","{'Type': 'Point', 'coordinates': [-81.392264, 41.431421]}"
+Starbucks,Warrensville Heights,5.0,"[-81.4941896689601, 41.4486733049616]","{'Type': 'Point', 'coordinates': [-81.4941896689601, 41.4486733049616]}"

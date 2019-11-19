@@ -1,0 +1,10 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Champaign,3.0,"[-88.2461407344072, 40.091617]","{'Type': 'Point', 'coordinates': [-88.2461407344072, 40.091617]}"
+Starbucks,Champaign,3.5,"[-88.231693, 40.110149]","{'Type': 'Point', 'coordinates': [-88.231693, 40.110149]}"
+Starbucks,Champaign,2.0,"[-88.229129, 40.108267]","{'Type': 'Point', 'coordinates': [-88.229129, 40.108267]}"
+Starbucks,Urbana,3.5,"[-88.227223, 40.109748]","{'Type': 'Point', 'coordinates': [-88.227223, 40.109748]}"
+Starbucks,Urbana,2.0,"[-88.2219887897372, 40.1069337808036]","{'Type': 'Point', 'coordinates': [-88.2219887897372, 40.1069337808036]}"
+Starbucks,Urbana,1.0,"[-88.22155, 40.106964]","{'Type': 'Point', 'coordinates': [-88.22155, 40.106964]}"
+Starbucks,Urbana,2.5,"[-88.2046272, 40.112939]","{'Type': 'Point', 'coordinates': [-88.2046272, 40.112939]}"
+Starbucks,Champaign,4.5,"[-88.25533, 40.141513]","{'Type': 'Point', 'coordinates': [-88.25533, 40.141513]}"
+Starbucks,Champaign,3.5,"[-88.257291, 40.148159]","{'Type': 'Point', 'coordinates': [-88.257291, 40.148159]}"

@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Ogden,3.0,"[-111.970441, 41.245153]","{'Type': 'Point', 'coordinates': [-111.970441, 41.245153]}"
+Starbucks,Ogden,1.0,"[-111.9431604, 41.19311941]","{'Type': 'Point', 'coordinates': [-111.9431604, 41.19311941]}"
+Starbucks,Ogden,3.0,"[-111.95079, 41.185345]","{'Type': 'Point', 'coordinates': [-111.95079, 41.185345]}"
+Starbucks,Ogden,3.5,"[-111.94867, 41.183037]","{'Type': 'Point', 'coordinates': [-111.94867, 41.183037]}"
+Starbucks,Riverdale,3.5,"[-112.007614, 41.17612]","{'Type': 'Point', 'coordinates': [-112.007614, 41.17612]}"
+Starbucks,South Ogden,2.5,"[-111.939901, 41.1619403]","{'Type': 'Point', 'coordinates': [-111.939901, 41.1619403]}"
+Starbucks,Clinton,3.5,"[-112.061384, 41.139642]","{'Type': 'Point', 'coordinates': [-112.061384, 41.139642]}"
+Starbucks,Clearfield,3.5,"[-112.020831, 41.123186]","{'Type': 'Point', 'coordinates': [-112.020831, 41.123186]}"

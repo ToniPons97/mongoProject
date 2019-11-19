@@ -1,0 +1,8 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Brentwood,3.0,"[-121.691182, 37.92697183]","{'Type': 'Point', 'coordinates': [-121.691182, 37.92697183]}"
+Starbucks,Brentwood,2.0,"[-121.721928, 37.923999]","{'Type': 'Point', 'coordinates': [-121.721928, 37.923999]}"
+Starbucks,Brentwood,2.5,"[-121.73945, 37.944142]","{'Type': 'Point', 'coordinates': [-121.73945, 37.944142]}"
+Starbucks,Antioch,2.5,"[-121.738431, 37.962092]","{'Type': 'Point', 'coordinates': [-121.738431, 37.962092]}"
+Starbucks,Antioch,3.5,"[-121.73799, 37.964498]","{'Type': 'Point', 'coordinates': [-121.73799, 37.964498]}"
+Starbucks,Antioch,2.5,"[-121.782349, 37.966391]","{'Type': 'Point', 'coordinates': [-121.782349, 37.966391]}"
+Starbucks,Oakley,2.5,"[-121.731838, 38.002622]","{'Type': 'Point', 'coordinates': [-121.731838, 38.002622]}"

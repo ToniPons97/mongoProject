@@ -1,0 +1,12 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Annapolis,3.0,"[-76.522985, 38.969967]","{'Type': 'Point', 'coordinates': [-76.522985, 38.969967]}"
+Starbucks,Annapolis,4.5,"[-76.523877, 38.979573]","{'Type': 'Point', 'coordinates': [-76.523877, 38.979573]}"
+Starbucks,Annapolis,3.5,"[-76.49221, 38.97817]","{'Type': 'Point', 'coordinates': [-76.49221, 38.97817]}"
+Starbucks,Annapolis,3.5,"[-76.48852, 38.97774]","{'Type': 'Point', 'coordinates': [-76.48852, 38.97774]}"
+Starbucks,Annapolis,3.5,"[-76.5416206, 38.98055722]","{'Type': 'Point', 'coordinates': [-76.5416206, 38.98055722]}"
+Starbucks,Annapolis,3.5,"[-76.544738, 38.97607]","{'Type': 'Point', 'coordinates': [-76.544738, 38.97607]}"
+Starbucks,Annapolis,4.5,"[-76.487488, 38.94709]","{'Type': 'Point', 'coordinates': [-76.487488, 38.94709]}"
+Starbucks,Annapolis,2.0,"[-76.544627, 38.99001]","{'Type': 'Point', 'coordinates': [-76.544627, 38.99001]}"
+Starbucks,Annapolis,4.0,"[-76.544423, 38.991285]","{'Type': 'Point', 'coordinates': [-76.544423, 38.991285]}"
+Starbucks,Edgewater,3.0,"[-76.5612502955699, 38.942208]","{'Type': 'Point', 'coordinates': [-76.5612502955699, 38.942208]}"
+Starbucks,Arnold,2.0,"[-76.503969, 39.030276]","{'Type': 'Point', 'coordinates': [-76.503969, 39.030276]}"

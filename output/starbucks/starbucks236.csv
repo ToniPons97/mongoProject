@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Hopkinton,2.5,"[-71.541271, 42.217121]","{'Type': 'Point', 'coordinates': [-71.541271, 42.217121]}"
+Starbucks,Hopkinton,3.5,"[-71.5517103308421, 42.2093058908654]","{'Type': 'Point', 'coordinates': [-71.5517103308421, 42.2093058908654]}"
+Starbucks,Milford,2.0,"[-71.498681, 42.160844]","{'Type': 'Point', 'coordinates': [-71.498681, 42.160844]}"
+Starbucks,Southborough,3.0,"[-71.519892, 42.292165]","{'Type': 'Point', 'coordinates': [-71.519892, 42.292165]}"

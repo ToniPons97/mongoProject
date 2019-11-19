@@ -1,0 +1,11 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Calumet City,3.5,"[-87.558516, 41.600469]","{'Type': 'Point', 'coordinates': [-87.558516, 41.600469]}"
+Starbucks,Chicago,3.5,"[-87.5856323, 41.765763]","{'Type': 'Point', 'coordinates': [-87.5856323, 41.765763]}"
+Starbucks,Hammond,3.0,"[-87.476434, 41.570825]","{'Type': 'Point', 'coordinates': [-87.476434, 41.570825]}"
+Starbucks,Chicago,2.5,"[-87.628765, 41.736471]","{'Type': 'Point', 'coordinates': [-87.628765, 41.736471]}"
+Starbucks,Munster,3.0,"[-87.507181, 41.567062]","{'Type': 'Point', 'coordinates': [-87.507181, 41.567062]}"
+Starbucks,Chicago,3.0,"[-87.66475, 41.679302]","{'Type': 'Point', 'coordinates': [-87.66475, 41.679302]}"
+Starbucks,South Holland,2.0,"[-87.599443, 41.578419]","{'Type': 'Point', 'coordinates': [-87.599443, 41.578419]}"
+Starbucks,Chicago,4.0,"[-87.670488, 41.7063615]","{'Type': 'Point', 'coordinates': [-87.670488, 41.7063615]}"
+Starbucks,Chicago,5.0,"[-87.597167, 41.789821]","{'Type': 'Point', 'coordinates': [-87.597167, 41.789821]}"
+Starbucks,Munster,3.5,"[-87.509555, 41.545998]","{'Type': 'Point', 'coordinates': [-87.509555, 41.545998]}"

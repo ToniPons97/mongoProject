@@ -1,0 +1,4 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Amherst,3.0,"[-72.519619, 42.376776]","{'Type': 'Point', 'coordinates': [-72.519619, 42.376776]}"
+Starbucks,Hadley,5.0,"[-72.546928, 42.357252]","{'Type': 'Point', 'coordinates': [-72.546928, 42.357252]}"
+Starbucks,Hadley,2.5,"[-72.552938, 42.357366]","{'Type': 'Point', 'coordinates': [-72.552938, 42.357366]}"

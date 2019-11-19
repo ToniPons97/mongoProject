@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Haymarket,3.5,"[151.205705550926, -33.8792766804224]","{'Type': 'Point', 'coordinates': [151.205705550926, -33.8792766804224]}"
+Starbucks,Sydney,4.0,"[151.206356, -33.87555]","{'Type': 'Point', 'coordinates': [151.206356, -33.87555]}"
+Starbucks,Sydney,3.5,"[151.206299, -33.875463]","{'Type': 'Point', 'coordinates': [151.206299, -33.875463]}"
+Starbucks,Sydney,3.0,"[151.20962, -33.87346]","{'Type': 'Point', 'coordinates': [151.20962, -33.87346]}"
+Starbucks,Mascot,4.0,"[151.165503237425, -33.939039364529]","{'Type': 'Point', 'coordinates': [151.165503237425, -33.939039364529]}"
+Starbucks,Sydney,4.0,"[151.205448, -33.865201]","{'Type': 'Point', 'coordinates': [151.205448, -33.865201]}"
+Starbucks,Bondi Junction,5.0,"[151.231946, -33.888255]","{'Type': 'Point', 'coordinates': [151.231946, -33.888255]}"
+Starbucks,Sydney,2.5,"[151.20863, -33.86179]","{'Type': 'Point', 'coordinates': [151.20863, -33.86179]}"

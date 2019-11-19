@@ -1,0 +1,10 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Horsham,3.5,"[-75.1339472106436, 40.180373]","{'Type': 'Point', 'coordinates': [-75.1339472106436, 40.180373]}"
+Starbucks,Huntingdon Valley,2.5,"[-75.071958, 40.169799]","{'Type': 'Point', 'coordinates': [-75.071958, 40.169799]}"
+Starbucks,Warminster,4.0,"[-75.099267, 40.206046]","{'Type': 'Point', 'coordinates': [-75.099267, 40.206046]}"
+Starbucks,Willow Grove,1.5,"[-75.115039, 40.146905]","{'Type': 'Point', 'coordinates': [-75.115039, 40.146905]}"
+Starbucks,Willow Grove,2.0,"[-75.123694, 40.140461]","{'Type': 'Point', 'coordinates': [-75.123694, 40.140461]}"
+Starbucks,Upper Southampton Township,4.0,"[-75.043408, 40.17467]","{'Type': 'Point', 'coordinates': [-75.043408, 40.17467]}"
+Starbucks,Warrington,3.5,"[-75.140597, 40.220144]","{'Type': 'Point', 'coordinates': [-75.140597, 40.220144]}"
+Starbucks,Abington,4.0,"[-75.117256, 40.12538]","{'Type': 'Point', 'coordinates': [-75.117256, 40.12538]}"
+Starbucks,Dresher,3.5,"[-75.167909, 40.1425027]","{'Type': 'Point', 'coordinates': [-75.167909, 40.1425027]}"

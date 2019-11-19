@@ -1,0 +1,6 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Tucker,2.5,"[-84.210028, 33.855027]","{'Type': 'Point', 'coordinates': [-84.210028, 33.855027]}"
+Starbucks,Tucker,2.0,"[-84.2457620971106, 33.8449038067281]","{'Type': 'Point', 'coordinates': [-84.2457620971106, 33.8449038067281]}"
+Starbucks,Tucker,4.0,"[-84.252207, 33.84692]","{'Type': 'Point', 'coordinates': [-84.252207, 33.84692]}"
+Starbucks,Norcross,2.0,"[-84.20577621, 33.90843584]","{'Type': 'Point', 'coordinates': [-84.20577621, 33.90843584]}"
+Starbucks,Decatur,3.0,"[-84.273451, 33.791743]","{'Type': 'Point', 'coordinates': [-84.273451, 33.791743]}"

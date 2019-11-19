@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Merrimack,2.5,"[-71.5024757625448, 42.8242194744981]","{'Type': 'Point', 'coordinates': [-71.5024757625448, 42.8242194744981]}"
+Starbucks,Merrimack,3.0,"[-71.505971, 42.824263]","{'Type': 'Point', 'coordinates': [-71.505971, 42.824263]}"
+Starbucks,Nashua,3.0,"[-71.537593, 42.801769]","{'Type': 'Point', 'coordinates': [-71.537593, 42.801769]}"
+Starbucks,Nashua,4.0,"[-71.536706, 42.798763]","{'Type': 'Point', 'coordinates': [-71.536706, 42.798763]}"
+Starbucks,Nashua,3.5,"[-71.496325, 42.766924]","{'Type': 'Point', 'coordinates': [-71.496325, 42.766924]}"
+Starbucks,Manchester,2.0,"[-71.438336, 42.927297]","{'Type': 'Point', 'coordinates': [-71.438336, 42.927297]}"
+Starbucks,Bedford,4.0,"[-71.4741, 42.94327]","{'Type': 'Point', 'coordinates': [-71.4741, 42.94327]}"
+Starbucks,Bedford,1.5,"[-71.478125, 42.956645]","{'Type': 'Point', 'coordinates': [-71.478125, 42.956645]}"

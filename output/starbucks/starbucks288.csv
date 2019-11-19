@@ -1,0 +1,12 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Woburn,2.5,"[-71.125849, 42.498245]","{'Type': 'Point', 'coordinates': [-71.125849, 42.498245]}"
+Starbucks,Woburn,3.0,"[-71.135858, 42.51747]","{'Type': 'Point', 'coordinates': [-71.135858, 42.51747]}"
+Starbucks,Stoneham,1.0,"[-71.103483, 42.495011]","{'Type': 'Point', 'coordinates': [-71.103483, 42.495011]}"
+Starbucks,Burlington,2.5,"[-71.193523, 42.484785]","{'Type': 'Point', 'coordinates': [-71.193523, 42.484785]}"
+Starbucks,Winchester,3.5,"[-71.136727, 42.452084]","{'Type': 'Point', 'coordinates': [-71.136727, 42.452084]}"
+Starbucks,Reading,3.5,"[-71.103994, 42.515626]","{'Type': 'Point', 'coordinates': [-71.103994, 42.515626]}"
+Starbucks,Burlington,3.5,"[-71.212145, 42.486286]","{'Type': 'Point', 'coordinates': [-71.212145, 42.486286]}"
+Starbucks,Reading,2.5,"[-71.0938691, 42.519834]","{'Type': 'Point', 'coordinates': [-71.0938691, 42.519834]}"
+Starbucks,Burlington,3.0,"[-71.225348, 42.494919]","{'Type': 'Point', 'coordinates': [-71.225348, 42.494919]}"
+Starbucks,Wilmington,3.5,"[-71.181101, 42.555593]","{'Type': 'Point', 'coordinates': [-71.181101, 42.555593]}"
+Starbucks,Melrose,3.5,"[-71.064889, 42.455493]","{'Type': 'Point', 'coordinates': [-71.064889, 42.455493]}"

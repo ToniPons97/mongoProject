@@ -1,0 +1,10 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Olympia,3.0,"[-122.942291, 47.047829]","{'Type': 'Point', 'coordinates': [-122.942291, 47.047829]}"
+Starbucks,Olympia,5.0,"[-122.941883, 47.045676]","{'Type': 'Point', 'coordinates': [-122.941883, 47.045676]}"
+Starbucks,Olympia,2.0,"[-122.937463, 47.044601]","{'Type': 'Point', 'coordinates': [-122.937463, 47.044601]}"
+Starbucks,Olympia,2.0,"[-122.933869, 47.0414373576668]","{'Type': 'Point', 'coordinates': [-122.933869, 47.0414373576668]}"
+Starbucks,Olympia,3.5,"[-122.939808, 47.036118]","{'Type': 'Point', 'coordinates': [-122.939808, 47.036118]}"
+Starbucks,Olympia,1.0,"[-122.9411413, 47.03404781]","{'Type': 'Point', 'coordinates': [-122.9411413, 47.03404781]}"
+Starbucks,Olympia,3.5,"[-122.901249, 47.043343]","{'Type': 'Point', 'coordinates': [-122.901249, 47.043343]}"
+Starbucks,Olympia,3.5,"[-122.875241, 47.046301]","{'Type': 'Point', 'coordinates': [-122.875241, 47.046301]}"
+Starbucks,Olympia,3.0,"[-122.875444293022, 47.0453785715639]","{'Type': 'Point', 'coordinates': [-122.875444293022, 47.0453785715639]}"

@@ -1,0 +1,7 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Burlington,3.5,"[-73.21456402, 44.47873121]","{'Type': 'Point', 'coordinates': [-73.21456402, 44.47873121]}"
+Starbucks,South Burlington,3.5,"[-73.178014, 44.468774]","{'Type': 'Point', 'coordinates': [-73.178014, 44.468774]}"
+Starbucks,South Burlington,1.5,"[-73.18272, 44.46641]","{'Type': 'Point', 'coordinates': [-73.18272, 44.46641]}"
+Starbucks,South Burlington,4.0,"[-73.208087, 44.448937]","{'Type': 'Point', 'coordinates': [-73.208087, 44.448937]}"
+Starbucks,Burlington,3.5,"[-73.210599, 44.449071]","{'Type': 'Point', 'coordinates': [-73.210599, 44.449071]}"
+Starbucks,Williston,3.0,"[-73.110787, 44.446576]","{'Type': 'Point', 'coordinates': [-73.110787, 44.446576]}"

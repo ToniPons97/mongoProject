@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Hooksett,3.0,"[-71.4612, 43.045413]","{'Type': 'Point', 'coordinates': [-71.4612, 43.045413]}"
+Starbucks,Bedford,1.5,"[-71.478125, 42.956645]","{'Type': 'Point', 'coordinates': [-71.478125, 42.956645]}"
+Starbucks,Bedford,4.0,"[-71.4741, 42.94327]","{'Type': 'Point', 'coordinates': [-71.4741, 42.94327]}"
+Starbucks,Manchester,3.0,"[-71.438358, 42.960187]","{'Type': 'Point', 'coordinates': [-71.438358, 42.960187]}"

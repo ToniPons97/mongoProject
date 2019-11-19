@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,València,4.0,"[-0.37532, 39.468841]","{'Type': 'Point', 'coordinates': [-0.37532, 39.468841]}"
+Starbucks,Valencia,3.0,"[-0.376535, 39.472752]","{'Type': 'Point', 'coordinates': [-0.376535, 39.472752]}"
+Starbucks,València,3.5,"[-0.378082, 39.47075]","{'Type': 'Point', 'coordinates': [-0.378082, 39.47075]}"
+Starbucks,Valencia,4.5,"[-0.36885, 39.46725]","{'Type': 'Point', 'coordinates': [-0.36885, 39.46725]}"

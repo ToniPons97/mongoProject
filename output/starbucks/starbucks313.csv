@@ -1,0 +1,3 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Elk River,4.0,"[-93.561477, 45.316998]","{'Type': 'Point', 'coordinates': [-93.561477, 45.316998]}"
+Starbucks,Otsego,4.5,"[-93.56335, 45.27796]","{'Type': 'Point', 'coordinates': [-93.56335, 45.27796]}"

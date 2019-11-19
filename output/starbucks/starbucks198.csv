@@ -1,0 +1,7 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Lehi,3.5,"[-111.8962002, 40.430833]","{'Type': 'Point', 'coordinates': [-111.8962002, 40.430833]}"
+Starbucks,Lehi,4.0,"[-111.828979, 40.388789]","{'Type': 'Point', 'coordinates': [-111.828979, 40.388789]}"
+Starbucks,Lehi,3.0,"[-111.824213, 40.429982]","{'Type': 'Point', 'coordinates': [-111.824213, 40.429982]}"
+Starbucks,American Fork,1.0,"[-111.81582, 40.378895]","{'Type': 'Point', 'coordinates': [-111.81582, 40.378895]}"
+Starbucks,Saratoga Springs,3.5,"[-111.9190921, 40.37485878]","{'Type': 'Point', 'coordinates': [-111.9190921, 40.37485878]}"
+Starbucks,American Fork,3.0,"[-111.785836, 40.373621]","{'Type': 'Point', 'coordinates': [-111.785836, 40.373621]}"

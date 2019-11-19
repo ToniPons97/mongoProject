@@ -1,0 +1,11 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,San Clemente,4.0,"[-117.620599195361, 33.4392967356882]","{'Type': 'Point', 'coordinates': [-117.620599195361, 33.4392967356882]}"
+Starbucks,San Clemente,2.5,"[-117.611349, 33.425996]","{'Type': 'Point', 'coordinates': [-117.611349, 33.425996]}"
+Starbucks,San Clemente,3.0,"[-117.613904, 33.442779]","{'Type': 'Point', 'coordinates': [-117.613904, 33.442779]}"
+Starbucks,San Clemente,2.0,"[-117.627733, 33.439267]","{'Type': 'Point', 'coordinates': [-117.627733, 33.439267]}"
+Starbucks,San Clemente,1.0,"[-117.603375, 33.456733]","{'Type': 'Point', 'coordinates': [-117.603375, 33.456733]}"
+Starbucks,San Clemente,3.5,"[-117.600454, 33.456992]","{'Type': 'Point', 'coordinates': [-117.600454, 33.456992]}"
+Starbucks,San Clemente,3.5,"[-117.60344, 33.464443]","{'Type': 'Point', 'coordinates': [-117.60344, 33.464443]}"
+Starbucks,San Clemente,3.0,"[-117.651391, 33.458669]","{'Type': 'Point', 'coordinates': [-117.651391, 33.458669]}"
+Starbucks,San Juan Capistrano,3.5,"[-117.6636429, 33.4936485]","{'Type': 'Point', 'coordinates': [-117.6636429, 33.4936485]}"
+Starbucks,Dana Point,3.5,"[-117.686251, 33.475064]","{'Type': 'Point', 'coordinates': [-117.686251, 33.475064]}"

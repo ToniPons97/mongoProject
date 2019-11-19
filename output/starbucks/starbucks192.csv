@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Morristown,3.0,"[-74.481577, 40.796466]","{'Type': 'Point', 'coordinates': [-74.481577, 40.796466]}"
+Starbucks,Morristown,4.0,"[-74.465177, 40.788942]","{'Type': 'Point', 'coordinates': [-74.465177, 40.788942]}"
+Starbucks,Cedar Knolls,4.0,"[-74.469521, 40.812484]","{'Type': 'Point', 'coordinates': [-74.469521, 40.812484]}"
+Starbucks,Morris Plains,2.0,"[-74.4637220928558, 40.841941]","{'Type': 'Point', 'coordinates': [-74.4637220928558, 40.841941]}"
+Starbucks,Parsippany,4.5,"[-74.460009, 40.841451]","{'Type': 'Point', 'coordinates': [-74.460009, 40.841451]}"
+Starbucks,Chatham,3.0,"[-74.430824, 40.746459]","{'Type': 'Point', 'coordinates': [-74.430824, 40.746459]}"
+Starbucks,Florham Park,3.5,"[-74.39321, 40.789081]","{'Type': 'Point', 'coordinates': [-74.39321, 40.789081]}"
+Starbucks,East Hanover,3.0,"[-74.38374, 40.81055]","{'Type': 'Point', 'coordinates': [-74.38374, 40.81055]}"

@@ -1,0 +1,3 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Watertown,3.0,"[-75.946543, 43.976601]","{'Type': 'Point', 'coordinates': [-75.946543, 43.976601]}"
+Starbucks,Watertown,4.0,"[-75.962805, 43.970135]","{'Type': 'Point', 'coordinates': [-75.962805, 43.970135]}"

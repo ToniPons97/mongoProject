@@ -1,0 +1,10 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Bethlehem,3.5,"[-75.37151722, 40.61187825]","{'Type': 'Point', 'coordinates': [-75.37151722, 40.61187825]}"
+Starbucks,Bethlehem,4.0,"[-75.3783712006566, 40.6095931658674]","{'Type': 'Point', 'coordinates': [-75.3783712006566, 40.6095931658674]}"
+Starbucks,Bethlehem,3.5,"[-75.4179934151413, 40.65665]","{'Type': 'Point', 'coordinates': [-75.4179934151413, 40.65665]}"
+Starbucks,Allentown,3.5,"[-75.435285, 40.638766]","{'Type': 'Point', 'coordinates': [-75.435285, 40.638766]}"
+Starbucks,Hellertown,2.0,"[-75.34094641, 40.56271517]","{'Type': 'Point', 'coordinates': [-75.34094641, 40.56271517]}"
+Starbucks,Bethlehem,3.0,"[-75.294225, 40.650502]","{'Type': 'Point', 'coordinates': [-75.294225, 40.650502]}"
+Starbucks,Lehigh Valley,3.0,"[-75.410962, 40.560177]","{'Type': 'Point', 'coordinates': [-75.410962, 40.560177]}"
+Starbucks,Allentown,2.5,"[-75.471284, 40.60258]","{'Type': 'Point', 'coordinates': [-75.471284, 40.60258]}"
+Starbucks,Whitehall,2.5,"[-75.479994, 40.631126]","{'Type': 'Point', 'coordinates': [-75.479994, 40.631126]}"

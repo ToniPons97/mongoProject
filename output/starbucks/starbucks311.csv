@@ -1,0 +1,3 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Pittsfield,3.5,"[-73.19697, 42.468628]","{'Type': 'Point', 'coordinates': [-73.19697, 42.468628]}"
+Starbucks,Bennington,5.0,"[-73.212729, 42.898532]","{'Type': 'Point', 'coordinates': [-73.212729, 42.898532]}"

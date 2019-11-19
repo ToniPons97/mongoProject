@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Fargo,2.5,"[-96.852844, 46.860527]","{'Type': 'Point', 'coordinates': [-96.852844, 46.860527]}"
+Starbucks,Fargo,3.0,"[-96.8513451889157, 46.8420607295261]","{'Type': 'Point', 'coordinates': [-96.8513451889157, 46.8420607295261]}"
+Starbucks,Fargo,4.5,"[-96.820486, 46.831931]","{'Type': 'Point', 'coordinates': [-96.820486, 46.831931]}"
+Starbucks,West Fargo,2.0,"[-96.86275224, 46.83986352]","{'Type': 'Point', 'coordinates': [-96.86275224, 46.83986352]}"
+Starbucks,Fargo,3.0,"[-96.868191, 46.861305]","{'Type': 'Point', 'coordinates': [-96.868191, 46.861305]}"
+Starbucks,Fargo,2.0,"[-96.802075, 46.890217]","{'Type': 'Point', 'coordinates': [-96.802075, 46.890217]}"
+Starbucks,Moorhead,3.0,"[-96.767021, 46.849816]","{'Type': 'Point', 'coordinates': [-96.767021, 46.849816]}"
+Starbucks,Fargo,5.0,"[-96.84495, 46.803354]","{'Type': 'Point', 'coordinates': [-96.84495, 46.803354]}"

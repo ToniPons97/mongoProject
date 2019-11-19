@@ -1,0 +1,12 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Wilmington,5.0,"[-77.885706, 34.219691]","{'Type': 'Point', 'coordinates': [-77.885706, 34.219691]}"
+Starbucks,Wilmington,2.5,"[-77.871739, 34.236882]","{'Type': 'Point', 'coordinates': [-77.871739, 34.236882]}"
+Starbucks,Wilmington,3.0,"[-77.906909, 34.2168337871418]","{'Type': 'Point', 'coordinates': [-77.906909, 34.2168337871418]}"
+Starbucks,Wilmington,1.0,"[-77.88152, 34.248116]","{'Type': 'Point', 'coordinates': [-77.88152, 34.248116]}"
+Starbucks,Wilmington,4.0,"[-77.831468, 34.236177]","{'Type': 'Point', 'coordinates': [-77.831468, 34.236177]}"
+Starbucks,Wilmington,3.5,"[-77.82846, 34.227915]","{'Type': 'Point', 'coordinates': [-77.82846, 34.227915]}"
+Starbucks,Wilmington,3.5,"[-77.82697, 34.243613]","{'Type': 'Point', 'coordinates': [-77.82697, 34.243613]}"
+Starbucks,Wilmington,4.0,"[-77.91775, 34.182728]","{'Type': 'Point', 'coordinates': [-77.91775, 34.182728]}"
+Starbucks,Wilmington,1.0,"[-77.822163, 34.221148]","{'Type': 'Point', 'coordinates': [-77.822163, 34.221148]}"
+Starbucks,Wilmington,3.0,"[-77.893399, 34.13796]","{'Type': 'Point', 'coordinates': [-77.893399, 34.13796]}"
+Starbucks,Leland,5.0,"[-78.019074, 34.219408]","{'Type': 'Point', 'coordinates': [-78.019074, 34.219408]}"

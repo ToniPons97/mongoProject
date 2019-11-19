@@ -1,0 +1,4 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Billerica,3.5,"[-71.289409, 42.581596]","{'Type': 'Point', 'coordinates': [-71.289409, 42.581596]}"
+Starbucks,Lowell,2.0,"[-71.318142, 42.623526]","{'Type': 'Point', 'coordinates': [-71.318142, 42.623526]}"
+Starbucks,Lowell,3.0,"[-71.3338235020638, 42.6433011889458]","{'Type': 'Point', 'coordinates': [-71.3338235020638, 42.6433011889458]}"

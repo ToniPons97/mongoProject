@@ -1,0 +1,6 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Ocala,3.0,"[-82.156912, 29.173808]","{'Type': 'Point', 'coordinates': [-82.156912, 29.173808]}"
+Starbucks,Ocala,3.5,"[-82.140181, 29.185687]","{'Type': 'Point', 'coordinates': [-82.140181, 29.185687]}"
+Starbucks,Ocala,2.5,"[-82.1692984, 29.1650196]","{'Type': 'Point', 'coordinates': [-82.1692984, 29.1650196]}"
+Starbucks,Ocala,4.0,"[-82.17336, 29.159]","{'Type': 'Point', 'coordinates': [-82.17336, 29.159]}"
+Starbucks,Ocala,3.0,"[-82.195973, 29.138757]","{'Type': 'Point', 'coordinates': [-82.195973, 29.138757]}"

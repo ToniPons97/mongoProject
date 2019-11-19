@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Doylestown,3.0,"[-75.130745, 40.3101828]","{'Type': 'Point', 'coordinates': [-75.130745, 40.3101828]}"
+Starbucks,Doylestown,2.5,"[-75.130908, 40.321777]","{'Type': 'Point', 'coordinates': [-75.130908, 40.321777]}"
+Starbucks,Doylestown,2.5,"[-75.127162, 40.273877]","{'Type': 'Point', 'coordinates': [-75.127162, 40.273877]}"
+Starbucks,Jamison,3.0,"[-75.085538, 40.258162]","{'Type': 'Point', 'coordinates': [-75.085538, 40.258162]}"

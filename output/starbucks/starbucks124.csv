@@ -1,0 +1,8 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Aberdeen,3.0,"[-76.1791349998812, 39.522270000013]","{'Type': 'Point', 'coordinates': [-76.1791349998812, 39.522270000013]}"
+Starbucks,Abingdon,3.5,"[-76.31621, 39.46386]","{'Type': 'Point', 'coordinates': [-76.31621, 39.46386]}"
+Starbucks,Abingdon,3.5,"[-76.31809329, 39.45848807]","{'Type': 'Point', 'coordinates': [-76.31809329, 39.45848807]}"
+Starbucks,Bel Air,3.0,"[-76.315323, 39.54676]","{'Type': 'Point', 'coordinates': [-76.315323, 39.54676]}"
+Starbucks,Bel Air,3.5,"[-76.352208, 39.523903]","{'Type': 'Point', 'coordinates': [-76.352208, 39.523903]}"
+Starbucks,Bel Air,2.0,"[-76.35191, 39.525608]","{'Type': 'Point', 'coordinates': [-76.35191, 39.525608]}"
+Starbucks,Bel Air,5.0,"[-76.35275, 39.527539]","{'Type': 'Point', 'coordinates': [-76.35275, 39.527539]}"

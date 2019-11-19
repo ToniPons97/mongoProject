@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Milwaukee,4.0,"[-88.002267, 43.148258]","{'Type': 'Point', 'coordinates': [-88.002267, 43.148258]}"
+Starbucks,Milwaukee,3.0,"[-87.983499, 43.090203]","{'Type': 'Point', 'coordinates': [-87.983499, 43.090203]}"
+Starbucks,Brookfield,2.5,"[-88.067055, 43.08921]","{'Type': 'Point', 'coordinates': [-88.067055, 43.08921]}"
+Starbucks,Wauwatosa,3.0,"[-88.051441, 43.073401]","{'Type': 'Point', 'coordinates': [-88.051441, 43.073401]}"
+Starbucks,Wauwatosa,3.5,"[-88.048405, 43.068366]","{'Type': 'Point', 'coordinates': [-88.048405, 43.068366]}"
+Starbucks,Milwaukee,2.5,"[-88.044549, 43.063879]","{'Type': 'Point', 'coordinates': [-88.044549, 43.063879]}"
+Starbucks,Whitefish Bay,3.5,"[-87.906509, 43.118664]","{'Type': 'Point', 'coordinates': [-87.906509, 43.118664]}"
+Starbucks,Milwaukee,3.5,"[-88.00788, 43.050651]","{'Type': 'Point', 'coordinates': [-88.00788, 43.050651]}"

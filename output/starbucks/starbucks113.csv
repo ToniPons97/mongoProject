@@ -1,0 +1,8 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Huntsville,3.0,"[-86.601472, 34.74174]","{'Type': 'Point', 'coordinates': [-86.601472, 34.74174]}"
+Starbucks,Huntsville,3.0,"[-86.578427, 34.719792]","{'Type': 'Point', 'coordinates': [-86.578427, 34.719792]}"
+Starbucks,Huntsville,3.5,"[-86.574659, 34.691512]","{'Type': 'Point', 'coordinates': [-86.574659, 34.691512]}"
+Starbucks,Huntsville,3.5,"[-86.6784, 34.7414]","{'Type': 'Point', 'coordinates': [-86.6784, 34.7414]}"
+Starbucks,Huntsville,3.0,"[-86.54819, 34.67782]","{'Type': 'Point', 'coordinates': [-86.54819, 34.67782]}"
+Starbucks,Huntsville,3.0,"[-86.711894, 34.757027]","{'Type': 'Point', 'coordinates': [-86.711894, 34.757027]}"
+Starbucks,Madison,2.5,"[-86.740158603736, 34.753673]","{'Type': 'Point', 'coordinates': [-86.740158603736, 34.753673]}"

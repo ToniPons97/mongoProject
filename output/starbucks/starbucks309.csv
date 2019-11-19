@@ -1,0 +1,6 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Pleasant Grove,5.0,"[-111.7655411, 40.35350304]","{'Type': 'Point', 'coordinates': [-111.7655411, 40.35350304]}"
+Starbucks,Orem,3.5,"[-111.701337120714, 40.312662]","{'Type': 'Point', 'coordinates': [-111.701337120714, 40.312662]}"
+Starbucks,Vineyard,3.5,"[-111.73559, 40.2973]","{'Type': 'Point', 'coordinates': [-111.73559, 40.2973]}"
+Starbucks,Orem,4.0,"[-111.698703, 40.295668]","{'Type': 'Point', 'coordinates': [-111.698703, 40.295668]}"
+Starbucks,American Fork,3.0,"[-111.785836, 40.373621]","{'Type': 'Point', 'coordinates': [-111.785836, 40.373621]}"

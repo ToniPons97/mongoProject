@@ -1,0 +1,4 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,London,4.0,"[0.027233, 51.576215]","{'Type': 'Point', 'coordinates': [0.027233, 51.576215]}"
+Starbucks,Romford,4.0,"[0.18118177117756, 51.5762815981883]","{'Type': 'Point', 'coordinates': [0.18118177117756, 51.5762815981883]}"
+Starbucks,London,2.5,"[-0.00523816551975642, 51.5418952265167]","{'Type': 'Point', 'coordinates': [-0.00523816551975642, 51.5418952265167]}"

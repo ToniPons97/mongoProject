@@ -1,0 +1,11 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Norcross,4.0,"[-84.195223, 33.968793]","{'Type': 'Point', 'coordinates': [-84.195223, 33.968793]}"
+Starbucks,Norcross,3.0,"[-84.232243, 33.951487]","{'Type': 'Point', 'coordinates': [-84.232243, 33.951487]}"
+Starbucks,Peachtree Corners,3.0,"[-84.232127, 33.95753]","{'Type': 'Point', 'coordinates': [-84.232127, 33.95753]}"
+Starbucks,Norcross,2.0,"[-84.168397, 33.920813]","{'Type': 'Point', 'coordinates': [-84.168397, 33.920813]}"
+Starbucks,Norcross,2.0,"[-84.20577621, 33.90843584]","{'Type': 'Point', 'coordinates': [-84.20577621, 33.90843584]}"
+Starbucks,Duluth,5.0,"[-84.143678, 33.960398]","{'Type': 'Point', 'coordinates': [-84.143678, 33.960398]}"
+Starbucks,Duluth,3.0,"[-84.135569, 33.9595689315163]","{'Type': 'Point', 'coordinates': [-84.135569, 33.9595689315163]}"
+Starbucks,Duluth,3.0,"[-84.123183, 33.943169]","{'Type': 'Point', 'coordinates': [-84.123183, 33.943169]}"
+Starbucks,Duluth,2.5,"[-84.170712, 34.003793]","{'Type': 'Point', 'coordinates': [-84.170712, 34.003793]}"
+Starbucks,Duluth,1.5,"[-84.18617, 34.013203]","{'Type': 'Point', 'coordinates': [-84.18617, 34.013203]}"

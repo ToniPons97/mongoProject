@@ -1,0 +1,10 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Longmont,2.5,"[-105.106754, 40.152779]","{'Type': 'Point', 'coordinates': [-105.106754, 40.152779]}"
+Starbucks,Longmont,5.0,"[-105.109669, 40.153497]","{'Type': 'Point', 'coordinates': [-105.109669, 40.153497]}"
+Starbucks,Longmont,3.0,"[-105.0935974, 40.1517982]","{'Type': 'Point', 'coordinates': [-105.0935974, 40.1517982]}"
+Starbucks,Longmont,3.5,"[-105.102844, 40.190609]","{'Type': 'Point', 'coordinates': [-105.102844, 40.190609]}"
+Starbucks,Longmont,2.5,"[-105.076485, 40.188243]","{'Type': 'Point', 'coordinates': [-105.076485, 40.188243]}"
+Starbucks,Longmont,3.0,"[-105.129721, 40.188018]","{'Type': 'Point', 'coordinates': [-105.129721, 40.188018]}"
+Starbucks,Longmont,2.5,"[-105.129798, 40.18888]","{'Type': 'Point', 'coordinates': [-105.129798, 40.18888]}"
+Starbucks,Longmont,3.5,"[-105.13144, 40.147331]","{'Type': 'Point', 'coordinates': [-105.13144, 40.147331]}"
+Starbucks,Firestone,3.5,"[-104.977483, 40.162648]","{'Type': 'Point', 'coordinates': [-104.977483, 40.162648]}"

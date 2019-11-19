@@ -1,0 +1,3 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Brisbane,3.0,"[153.026082240194, -27.467813531188]","{'Type': 'Point', 'coordinates': [153.026082240194, -27.467813531188]}"
+Starbucks,Brisbane,3.0,"[153.024755, -27.470513]","{'Type': 'Point', 'coordinates': [153.024755, -27.470513]}"

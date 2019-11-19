@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Wyomissing,3.0,"[-75.978343, 40.340162]","{'Type': 'Point', 'coordinates': [-75.978343, 40.340162]}"
+Starbucks,West Lawn,4.5,"[-76.001786, 40.343877]","{'Type': 'Point', 'coordinates': [-76.001786, 40.343877]}"
+Starbucks,Temple,2.0,"[-75.929062, 40.397458]","{'Type': 'Point', 'coordinates': [-75.929062, 40.397458]}"
+Starbucks,Reading,2.0,"[-75.860016, 40.306583]","{'Type': 'Point', 'coordinates': [-75.860016, 40.306583]}"

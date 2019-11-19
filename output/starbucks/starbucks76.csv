@@ -1,0 +1,10 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Roseland,4.0,"[-74.327935, 40.821441]","{'Type': 'Point', 'coordinates': [-74.327935, 40.821441]}"
+Starbucks,Livingston,3.0,"[-74.315578, 40.795678]","{'Type': 'Point', 'coordinates': [-74.315578, 40.795678]}"
+Starbucks,West Caldwell,3.0,"[-74.297047, 40.84897]","{'Type': 'Point', 'coordinates': [-74.297047, 40.84897]}"
+Starbucks,Livingston,3.5,"[-74.340772, 40.798594]","{'Type': 'Point', 'coordinates': [-74.340772, 40.798594]}"
+Starbucks,East Hanover,3.0,"[-74.38374, 40.81055]","{'Type': 'Point', 'coordinates': [-74.38374, 40.81055]}"
+Starbucks,Livingston,3.0,"[-74.304947, 40.763539]","{'Type': 'Point', 'coordinates': [-74.304947, 40.763539]}"
+Starbucks,Montclair,2.5,"[-74.220142, 40.814274]","{'Type': 'Point', 'coordinates': [-74.220142, 40.814274]}"
+Starbucks,Florham Park,3.5,"[-74.39321, 40.789081]","{'Type': 'Point', 'coordinates': [-74.39321, 40.789081]}"
+Starbucks,Parsippany,1.0,"[-74.388134, 40.861969]","{'Type': 'Point', 'coordinates': [-74.388134, 40.861969]}"

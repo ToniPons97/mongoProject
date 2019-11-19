@@ -1,0 +1,4 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Vestal,3.0,"[-76.006384, 42.094539]","{'Type': 'Point', 'coordinates': [-76.006384, 42.094539]}"
+Starbucks,Vestal,3.5,"[-76.001173, 42.094101]","{'Type': 'Point', 'coordinates': [-76.001173, 42.094101]}"
+Starbucks,Vestal,4.0,"[-75.950091, 42.092358]","{'Type': 'Point', 'coordinates': [-75.950091, 42.092358]}"

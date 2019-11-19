@@ -1,0 +1,8 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Fairfield,2.5,"[-73.262265, 41.141398]","{'Type': 'Point', 'coordinates': [-73.262265, 41.141398]}"
+Starbucks,Fairfield,2.0,"[-73.258476, 41.140816]","{'Type': 'Point', 'coordinates': [-73.258476, 41.140816]}"
+Starbucks,Fairfield,3.0,"[-73.252594, 41.181566]","{'Type': 'Point', 'coordinates': [-73.252594, 41.181566]}"
+Starbucks,Westport,3.0,"[-73.302365, 41.137628]","{'Type': 'Point', 'coordinates': [-73.302365, 41.137628]}"
+Starbucks,Bridgeport,3.0,"[-73.181955, 41.17825]","{'Type': 'Point', 'coordinates': [-73.181955, 41.17825]}"
+Starbucks,Westport,2.0,"[-73.330582, 41.138419]","{'Type': 'Point', 'coordinates': [-73.330582, 41.138419]}"
+Starbucks,Trumbull,1.5,"[-73.226607, 41.228417]","{'Type': 'Point', 'coordinates': [-73.226607, 41.228417]}"

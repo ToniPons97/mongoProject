@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Orem,4.0,"[-111.698703, 40.295668]","{'Type': 'Point', 'coordinates': [-111.698703, 40.295668]}"
+Starbucks,Orem,3.5,"[-111.701337120714, 40.312662]","{'Type': 'Point', 'coordinates': [-111.701337120714, 40.312662]}"
+Starbucks,Orem,2.5,"[-111.678419, 40.27355]","{'Type': 'Point', 'coordinates': [-111.678419, 40.27355]}"
+Starbucks,Vineyard,3.5,"[-111.73559, 40.2973]","{'Type': 'Point', 'coordinates': [-111.73559, 40.2973]}"

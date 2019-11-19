@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Palm Beach Gardens,4.0,"[-80.060151, 26.846281]","{'Type': 'Point', 'coordinates': [-80.060151, 26.846281]}"
+Starbucks,Lake Park,1.5,"[-80.083064, 26.805784]","{'Type': 'Point', 'coordinates': [-80.083064, 26.805784]}"
+Starbucks,Palm Beach Gardens,3.5,"[-80.085267, 26.848298]","{'Type': 'Point', 'coordinates': [-80.085267, 26.848298]}"
+Starbucks,Palm Beach Gardens,3.5,"[-80.0855744, 26.84877377]","{'Type': 'Point', 'coordinates': [-80.0855744, 26.84877377]}"
+Starbucks,Palm Beach Gardens,3.0,"[-80.0961025, 26.808123]","{'Type': 'Point', 'coordinates': [-80.0961025, 26.808123]}"
+Starbucks,Palm Beach,4.0,"[-80.1062, 26.839987]","{'Type': 'Point', 'coordinates': [-80.1062, 26.839987]}"
+Starbucks,Palm Beach Gardens,4.5,"[-80.13245, 26.841542]","{'Type': 'Point', 'coordinates': [-80.13245, 26.841542]}"
+Starbucks,Jupiter,3.0,"[-80.107192, 26.884056]","{'Type': 'Point', 'coordinates': [-80.107192, 26.884056]}"

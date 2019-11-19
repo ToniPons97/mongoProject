@@ -1,0 +1,3 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Winter Park,2.0,"[-105.784332275391, 39.9169502258301]","{'Type': 'Point', 'coordinates': [-105.784332275391, 39.9169502258301]}"
+Starbucks,Winter Park,2.5,"[-105.76217, 39.88564]","{'Type': 'Point', 'coordinates': [-105.76217, 39.88564]}"

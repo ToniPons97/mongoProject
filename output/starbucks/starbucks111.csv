@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,San Luis Obispo,4.0,"[-120.676618, 35.263169]","{'Type': 'Point', 'coordinates': [-120.676618, 35.263169]}"
+Starbucks,San Luis Obispo,3.0,"[-120.661788, 35.2798632210525]","{'Type': 'Point', 'coordinates': [-120.661788, 35.2798632210525]}"
+Starbucks,San Luis Obispo,3.5,"[-120.6732283, 35.2455448]","{'Type': 'Point', 'coordinates': [-120.6732283, 35.2455448]}"
+Starbucks,San Luis Obispo,3.5,"[-120.670984, 35.293715]","{'Type': 'Point', 'coordinates': [-120.670984, 35.293715]}"
+Starbucks,San Luis Obispo,2.5,"[-120.641904, 35.250416]","{'Type': 'Point', 'coordinates': [-120.641904, 35.250416]}"
+Starbucks,San Luis Obispo,4.0,"[-120.643035618439, 35.249205]","{'Type': 'Point', 'coordinates': [-120.643035618439, 35.249205]}"
+Starbucks,San Luis Obispo,2.5,"[-120.658806, 35.300199]","{'Type': 'Point', 'coordinates': [-120.658806, 35.300199]}"
+Starbucks,San Luis Obispo,3.0,"[-120.658808, 35.30019]","{'Type': 'Point', 'coordinates': [-120.658808, 35.30019]}"

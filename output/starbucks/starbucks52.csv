@@ -1,0 +1,3 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Branford,3.0,"[-72.827571, 41.277484]","{'Type': 'Point', 'coordinates': [-72.827571, 41.277484]}"
+Starbucks,Branford,3.5,"[-72.759453, 41.296963]","{'Type': 'Point', 'coordinates': [-72.759453, 41.296963]}"

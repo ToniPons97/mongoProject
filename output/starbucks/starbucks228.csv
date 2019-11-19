@@ -1,0 +1,11 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Franklin,2.5,"[-86.821678, 35.947698]","{'Type': 'Point', 'coordinates': [-86.821678, 35.947698]}"
+Starbucks,Franklin,4.5,"[-86.81610665, 35.92572897]","{'Type': 'Point', 'coordinates': [-86.81610665, 35.92572897]}"
+Starbucks,Franklin,2.5,"[-86.829169, 35.9139361]","{'Type': 'Point', 'coordinates': [-86.829169, 35.9139361]}"
+Starbucks,Franklin,4.0,"[-86.871584, 35.924095]","{'Type': 'Point', 'coordinates': [-86.871584, 35.924095]}"
+Starbucks,Franklin,3.0,"[-86.813715, 35.956662]","{'Type': 'Point', 'coordinates': [-86.813715, 35.956662]}"
+Starbucks,Franklin,3.0,"[-86.802742, 35.960384]","{'Type': 'Point', 'coordinates': [-86.802742, 35.960384]}"
+Starbucks,Franklin,4.5,"[-86.88079, 35.892975]","{'Type': 'Point', 'coordinates': [-86.88079, 35.892975]}"
+Starbucks,Brentwood,3.0,"[-86.7913378674203, 36.0298893403434]","{'Type': 'Point', 'coordinates': [-86.7913378674203, 36.0298893403434]}"
+Starbucks,Nashville,2.0,"[-86.787471, 36.031648]","{'Type': 'Point', 'coordinates': [-86.787471, 36.031648]}"
+Starbucks,Brentwood,3.0,"[-86.801178, 36.036841]","{'Type': 'Point', 'coordinates': [-86.801178, 36.036841]}"

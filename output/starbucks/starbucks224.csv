@@ -1,0 +1,13 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Fort Collins,3.5,"[-105.058516, 40.550513]","{'Type': 'Point', 'coordinates': [-105.058516, 40.550513]}"
+Starbucks,Fort Collins,2.0,"[-105.078671, 40.537584]","{'Type': 'Point', 'coordinates': [-105.078671, 40.537584]}"
+Starbucks,Fort Collins,3.0,"[-105.092072, 40.553062]","{'Type': 'Point', 'coordinates': [-105.092072, 40.553062]}"
+Starbucks,Fort Collins,3.5,"[-105.076694, 40.56446]","{'Type': 'Point', 'coordinates': [-105.076694, 40.56446]}"
+Starbucks,Fort Collins,1.0,"[-105.07885, 40.527218]","{'Type': 'Point', 'coordinates': [-105.07885, 40.527218]}"
+Starbucks,Fort Collins,4.0,"[-105.073822, 40.523957]","{'Type': 'Point', 'coordinates': [-105.073822, 40.523957]}"
+Starbucks,Fort Collins,3.0,"[-105.05197, 40.525116]","{'Type': 'Point', 'coordinates': [-105.05197, 40.525116]}"
+Starbucks,Fort Collins,4.5,"[-105.10052800878, 40.574306]","{'Type': 'Point', 'coordinates': [-105.10052800878, 40.574306]}"
+Starbucks,Fort Collins,4.0,"[-105.042141, 40.5227]","{'Type': 'Point', 'coordinates': [-105.042141, 40.5227]}"
+Starbucks,Fort Collins,3.5,"[-105.076725, 40.588748]","{'Type': 'Point', 'coordinates': [-105.076725, 40.588748]}"
+Starbucks,Ft. Collins,3.5,"[-105.075628, 40.61184]","{'Type': 'Point', 'coordinates': [-105.075628, 40.61184]}"
+Starbucks,Timnath,3.5,"[-104.989428, 40.523715]","{'Type': 'Point', 'coordinates': [-104.989428, 40.523715]}"

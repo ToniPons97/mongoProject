@@ -1,0 +1,4 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Acton,3.0,"[-71.451661, 42.474943]","{'Type': 'Point', 'coordinates': [-71.451661, 42.474943]}"
+Starbucks,Concord,3.5,"[-71.355846, 42.455733]","{'Type': 'Point', 'coordinates': [-71.355846, 42.455733]}"
+Starbucks,Littleton,2.5,"[-71.47671182, 42.5515702]","{'Type': 'Point', 'coordinates': [-71.47671182, 42.5515702]}"

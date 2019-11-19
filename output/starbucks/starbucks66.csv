@@ -1,0 +1,9 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Stamford,3.5,"[-73.545314, 41.066848]","{'Type': 'Point', 'coordinates': [-73.545314, 41.066848]}"
+Starbucks,Stamford,3.0,"[-73.54125, 41.055304]","{'Type': 'Point', 'coordinates': [-73.54125, 41.055304]}"
+Starbucks,Stamford,2.0,"[-73.537217, 41.053317]","{'Type': 'Point', 'coordinates': [-73.537217, 41.053317]}"
+Starbucks,Stamford,2.0,"[-73.55813, 41.043607]","{'Type': 'Point', 'coordinates': [-73.55813, 41.043607]}"
+Starbucks,Riverside,3.0,"[-73.57688, 41.04199]","{'Type': 'Point', 'coordinates': [-73.57688, 41.04199]}"
+Starbucks,Stamford,3.0,"[-73.547028, 41.107841]","{'Type': 'Point', 'coordinates': [-73.547028, 41.107841]}"
+Starbucks,Darien,3.0,"[-73.46897, 41.078751]","{'Type': 'Point', 'coordinates': [-73.46897, 41.078751]}"
+Starbucks,Cos Cob,3.0,"[-73.600229, 41.037381]","{'Type': 'Point', 'coordinates': [-73.600229, 41.037381]}"

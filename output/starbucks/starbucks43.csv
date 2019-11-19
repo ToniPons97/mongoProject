@@ -1,0 +1,10 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Stone Mountain,2.5,"[-84.132802, 33.84136]","{'Type': 'Point', 'coordinates': [-84.132802, 33.84136]}"
+Starbucks,Tucker,2.5,"[-84.210028, 33.855027]","{'Type': 'Point', 'coordinates': [-84.210028, 33.855027]}"
+Starbucks,Tucker,2.0,"[-84.2457620971106, 33.8449038067281]","{'Type': 'Point', 'coordinates': [-84.2457620971106, 33.8449038067281]}"
+Starbucks,Tucker,4.0,"[-84.252207, 33.84692]","{'Type': 'Point', 'coordinates': [-84.252207, 33.84692]}"
+Starbucks,Decatur,3.0,"[-84.273451, 33.791743]","{'Type': 'Point', 'coordinates': [-84.273451, 33.791743]}"
+Starbucks,Decatur,2.0,"[-84.286828, 33.7922194737101]","{'Type': 'Point', 'coordinates': [-84.286828, 33.7922194737101]}"
+Starbucks,Snelleville,1.0,"[-84.033347, 33.82494]","{'Type': 'Point', 'coordinates': [-84.033347, 33.82494]}"
+Starbucks,Decatur,2.5,"[-84.2958, 33.775472]","{'Type': 'Point', 'coordinates': [-84.2958, 33.775472]}"
+Starbucks,Norcross,2.0,"[-84.20577621, 33.90843584]","{'Type': 'Point', 'coordinates': [-84.20577621, 33.90843584]}"

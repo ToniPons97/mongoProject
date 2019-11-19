@@ -1,0 +1,6 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Sharon,1.0,"[-71.220273, 42.094001]","{'Type': 'Point', 'coordinates': [-71.220273, 42.094001]}"
+Starbucks,Foxborough,3.0,"[-71.234007, 42.036378]","{'Type': 'Point', 'coordinates': [-71.234007, 42.036378]}"
+Starbucks,Plainville,1.5,"[-71.31062, 42.03382]","{'Type': 'Point', 'coordinates': [-71.31062, 42.03382]}"
+Starbucks,Plainville,3.0,"[-71.310554, 42.027608]","{'Type': 'Point', 'coordinates': [-71.310554, 42.027608]}"
+Starbucks,Walpole,3.0,"[-71.219263, 42.14008]","{'Type': 'Point', 'coordinates': [-71.219263, 42.14008]}"

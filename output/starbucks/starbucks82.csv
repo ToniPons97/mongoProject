@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Ridgeland,2.5,"[-90.149233, 32.434022]","{'Type': 'Point', 'coordinates': [-90.149233, 32.434022]}"
+Starbucks,Jackson,1.5,"[-90.14788, 32.398468]","{'Type': 'Point', 'coordinates': [-90.14788, 32.398468]}"
+Starbucks,Madison,2.5,"[-90.139987, 32.4718595290827]","{'Type': 'Point', 'coordinates': [-90.139987, 32.4718595290827]}"
+Starbucks,Jackson,3.0,"[-90.150015, 32.356368]","{'Type': 'Point', 'coordinates': [-90.150015, 32.356368]}"

@@ -1,0 +1,6 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Andover,3.0,"[-71.140262, 42.656387]","{'Type': 'Point', 'coordinates': [-71.140262, 42.656387]}"
+Starbucks,North Andover,3.0,"[-71.115156, 42.665875]","{'Type': 'Point', 'coordinates': [-71.115156, 42.665875]}"
+Starbucks,Lawrence,3.5,"[-71.14603, 42.687516]","{'Type': 'Point', 'coordinates': [-71.14603, 42.687516]}"
+Starbucks,Wilmington,1.0,"[-71.159876, 42.589707]","{'Type': 'Point', 'coordinates': [-71.159876, 42.589707]}"
+Starbucks,North Reading,2.5,"[-71.117054, 42.591485]","{'Type': 'Point', 'coordinates': [-71.117054, 42.591485]}"

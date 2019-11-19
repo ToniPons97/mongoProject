@@ -1,0 +1,12 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Woodridge,3.5,"[-88.039061, 41.770804]","{'Type': 'Point', 'coordinates': [-88.039061, 41.770804]}"
+Starbucks,Woodridge,2.5,"[-88.013354, 41.749306]","{'Type': 'Point', 'coordinates': [-88.013354, 41.749306]}"
+Starbucks,Woodridge,4.0,"[-88.069993, 41.7695372794431]","{'Type': 'Point', 'coordinates': [-88.069993, 41.7695372794431]}"
+Starbucks,Bolingbrook,3.0,"[-88.039666, 41.721962]","{'Type': 'Point', 'coordinates': [-88.039666, 41.721962]}"
+Starbucks,Bolingbrook,4.0,"[-88.040727, 41.720352]","{'Type': 'Point', 'coordinates': [-88.040727, 41.720352]}"
+Starbucks,Lisle,3.5,"[-88.073384, 41.787138]","{'Type': 'Point', 'coordinates': [-88.073384, 41.787138]}"
+Starbucks,Downers Grove,3.5,"[-88.01061, 41.795979]","{'Type': 'Point', 'coordinates': [-88.01061, 41.795979]}"
+Starbucks,Darien,3.0,"[-87.973345, 41.750844]","{'Type': 'Point', 'coordinates': [-87.973345, 41.750844]}"
+Starbucks,Naperville,3.0,"[-88.114709, 41.75146]","{'Type': 'Point', 'coordinates': [-88.114709, 41.75146]}"
+Starbucks,Downers Grove,2.5,"[-88.013844, 41.808272]","{'Type': 'Point', 'coordinates': [-88.013844, 41.808272]}"
+Starbucks,Bolingbrook,3.5,"[-88.068694, 41.6881806]","{'Type': 'Point', 'coordinates': [-88.068694, 41.6881806]}"

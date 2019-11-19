@@ -1,0 +1,12 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Tulsa,4.0,"[-95.975378, 36.112229]","{'Type': 'Point', 'coordinates': [-95.975378, 36.112229]}"
+Starbucks,Tulsa,3.5,"[-95.964993, 36.132396190645]","{'Type': 'Point', 'coordinates': [-95.964993, 36.132396190645]}"
+Starbucks,Tulsa,2.5,"[-95.9396299, 36.08901]","{'Type': 'Point', 'coordinates': [-95.9396299, 36.08901]}"
+Starbucks,Tulsa,2.5,"[-95.99651, 36.15036]","{'Type': 'Point', 'coordinates': [-95.99651, 36.15036]}"
+Starbucks,Tulsa,3.5,"[-95.973892, 36.060274]","{'Type': 'Point', 'coordinates': [-95.973892, 36.060274]}"
+Starbucks,Tulsa,3.0,"[-95.924126, 36.077038]","{'Type': 'Point', 'coordinates': [-95.924126, 36.077038]}"
+Starbucks,Tulsa,3.0,"[-95.911344, 36.1040086682878]","{'Type': 'Point', 'coordinates': [-95.911344, 36.1040086682878]}"
+Starbucks,Tulsa,3.5,"[-95.921935, 36.136409]","{'Type': 'Point', 'coordinates': [-95.921935, 36.136409]}"
+Starbucks,Tulsa,2.5,"[-95.920239, 36.137156]","{'Type': 'Point', 'coordinates': [-95.920239, 36.137156]}"
+Starbucks,Tulsa,5.0,"[-96.001717, 36.054853]","{'Type': 'Point', 'coordinates': [-96.001717, 36.054853]}"
+Starbucks,Tulsa,2.5,"[-96.003901, 36.047502]","{'Type': 'Point', 'coordinates': [-96.003901, 36.047502]}"

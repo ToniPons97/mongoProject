@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Malvern,4.5,"[-75.520105, 40.049343]","{'Type': 'Point', 'coordinates': [-75.520105, 40.049343]}"
+Starbucks,Paoli,3.5,"[-75.488014, 40.042108]","{'Type': 'Point', 'coordinates': [-75.488014, 40.042108]}"
+Starbucks,Malvern,1.0,"[-75.528957, 40.055019]","{'Type': 'Point', 'coordinates': [-75.528957, 40.055019]}"
+Starbucks,West Chester,3.5,"[-75.567427, 39.998629]","{'Type': 'Point', 'coordinates': [-75.567427, 39.998629]}"

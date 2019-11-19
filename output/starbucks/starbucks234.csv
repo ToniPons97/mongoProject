@@ -1,0 +1,5 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Lake Mary,3.5,"[-81.352706, 28.755523]","{'Type': 'Point', 'coordinates': [-81.352706, 28.755523]}"
+Starbucks,Lake Mary,2.5,"[-81.357871, 28.778502]","{'Type': 'Point', 'coordinates': [-81.357871, 28.778502]}"
+Starbucks,Sanford,3.0,"[-81.33394, 28.798637]","{'Type': 'Point', 'coordinates': [-81.33394, 28.798637]}"
+Starbucks,Sanford,3.5,"[-81.3347583264112, 28.8117523803962]","{'Type': 'Point', 'coordinates': [-81.3347583264112, 28.8117523803962]}"

@@ -1,0 +1,13 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Draper,3.0,"[-111.855086, 40.529301]","{'Type': 'Point', 'coordinates': [-111.855086, 40.529301]}"
+Starbucks,Sandy,3.5,"[-111.891749, 40.544724]","{'Type': 'Point', 'coordinates': [-111.891749, 40.544724]}"
+Starbucks,Lehi,3.0,"[-111.824213, 40.429982]","{'Type': 'Point', 'coordinates': [-111.824213, 40.429982]}"
+Starbucks,Lehi,3.5,"[-111.8962002, 40.430833]","{'Type': 'Point', 'coordinates': [-111.8962002, 40.430833]}"
+Starbucks,Sandy,3.5,"[-111.8943769, 40.55931]","{'Type': 'Point', 'coordinates': [-111.8943769, 40.55931]}"
+Starbucks,Sandy,3.5,"[-111.89317, 40.567276]","{'Type': 'Point', 'coordinates': [-111.89317, 40.567276]}"
+Starbucks,Sandy,3.5,"[-111.835474, 40.580097]","{'Type': 'Point', 'coordinates': [-111.835474, 40.580097]}"
+Starbucks,Sandy,3.5,"[-111.861396, 40.581535]","{'Type': 'Point', 'coordinates': [-111.861396, 40.581535]}"
+Starbucks,Riverton,3.5,"[-111.979729, 40.508435]","{'Type': 'Point', 'coordinates': [-111.979729, 40.508435]}"
+Starbucks,Sandy,2.5,"[-111.892667, 40.588533]","{'Type': 'Point', 'coordinates': [-111.892667, 40.588533]}"
+Starbucks,South Jordan,3.5,"[-111.977966, 40.541485]","{'Type': 'Point', 'coordinates': [-111.977966, 40.541485]}"
+Starbucks,Lehi,4.0,"[-111.828979, 40.388789]","{'Type': 'Point', 'coordinates': [-111.828979, 40.388789]}"

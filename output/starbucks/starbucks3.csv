@@ -1,0 +1,8 @@
+Name,City,Raiting,Coordinates,Geometry
+Starbucks,Morgan Hill,3.0,"[-121.639228, 37.130492]","{'Type': 'Point', 'coordinates': [-121.639228, 37.130492]}"
+Starbucks,Morgan Hill,3.5,"[-121.63634, 37.129064]","{'Type': 'Point', 'coordinates': [-121.63634, 37.129064]}"
+Starbucks,Morgan Hill,2.5,"[-121.643647, 37.112474777727]","{'Type': 'Point', 'coordinates': [-121.643647, 37.112474777727]}"
+Starbucks,Morgan Hill,1.0,"[-121.639277, 37.113066]","{'Type': 'Point', 'coordinates': [-121.639277, 37.113066]}"
+Starbucks,Morgan Hill,2.5,"[-121.664322, 37.14397]","{'Type': 'Point', 'coordinates': [-121.664322, 37.14397]}"
+Starbucks,Morgan Hill,3.0,"[-121.650854, 37.155749]","{'Type': 'Point', 'coordinates': [-121.650854, 37.155749]}"
+Starbucks,Morgan Hill,2.0,"[-121.653816, 37.157709]","{'Type': 'Point', 'coordinates': [-121.653816, 37.157709]}"
