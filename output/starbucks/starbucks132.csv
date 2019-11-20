@@ -1,7 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,North Reading,2.5,"[-71.117054, 42.591485]","{'Type': 'Point', 'coordinates': [-71.117054, 42.591485]}"
-Starbucks,Wilmington,1.0,"[-71.159876, 42.589707]","{'Type': 'Point', 'coordinates': [-71.159876, 42.589707]}"
-Starbucks,Wilmington,3.5,"[-71.181101, 42.555593]","{'Type': 'Point', 'coordinates': [-71.181101, 42.555593]}"
-Starbucks,Reading,2.5,"[-71.0938691, 42.519834]","{'Type': 'Point', 'coordinates': [-71.0938691, 42.519834]}"
-Starbucks,Reading,3.5,"[-71.103994, 42.515626]","{'Type': 'Point', 'coordinates': [-71.103994, 42.515626]}"
-Starbucks,Woburn,3.0,"[-71.135858, 42.51747]","{'Type': 'Point', 'coordinates': [-71.135858, 42.51747]}"

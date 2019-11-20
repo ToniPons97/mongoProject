@@ -1,7 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Northborough,3.0,"[-71.668772, 42.286501]","{'Type': 'Point', 'coordinates': [-71.668772, 42.286501]}"
-Starbucks,Westborough,1.0,"[-71.655947, 42.28027]","{'Type': 'Point', 'coordinates': [-71.655947, 42.28027]}"
-Starbucks,Westborough,3.5,"[-71.609897, 42.284544]","{'Type': 'Point', 'coordinates': [-71.609897, 42.284544]}"
-Starbucks,Marlborough,2.5,"[-71.5891846413291, 42.3387557229297]","{'Type': 'Point', 'coordinates': [-71.5891846413291, 42.3387557229297]}"
-Starbucks,Shrewsbury,3.5,"[-71.696509, 42.278311]","{'Type': 'Point', 'coordinates': [-71.696509, 42.278311]}"
-Starbucks,Marlborough,1.0,"[-71.607237, 42.359572]","{'Type': 'Point', 'coordinates': [-71.607237, 42.359572]}"

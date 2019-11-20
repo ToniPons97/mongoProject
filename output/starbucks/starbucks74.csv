@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Lowell,3.0,"[-71.3338235020638, 42.6433011889458]","{'Type': 'Point', 'coordinates': [-71.3338235020638, 42.6433011889458]}"
-Starbucks,Lowell,4.0,"[-71.326524, 42.65277]","{'Type': 'Point', 'coordinates': [-71.326524, 42.65277]}"
-Starbucks,Lowell,2.0,"[-71.318142, 42.623526]","{'Type': 'Point', 'coordinates': [-71.318142, 42.623526]}"
-Starbucks,Chelmsford,3.5,"[-71.364313, 42.6237728]","{'Type': 'Point', 'coordinates': [-71.364313, 42.6237728]}"
-Starbucks,Billerica,3.5,"[-71.289409, 42.581596]","{'Type': 'Point', 'coordinates': [-71.289409, 42.581596]}"

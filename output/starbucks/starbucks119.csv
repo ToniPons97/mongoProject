@@ -1,9 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Bloomington,3.5,"[-86.52713, 39.16613]","{'Type': 'Point', 'coordinates': [-86.52713, 39.16613]}"
-Starbucks,Bloomington,3.0,"[-86.523628, 39.167934]","{'Type': 'Point', 'coordinates': [-86.523628, 39.167934]}"
-Starbucks,Bloomington,3.5,"[-86.531726, 39.145471]","{'Type': 'Point', 'coordinates': [-86.531726, 39.145471]}"
-Starbucks,Bloomington,2.0,"[-86.498588, 39.165733]","{'Type': 'Point', 'coordinates': [-86.498588, 39.165733]}"
-Starbucks,Bloomington,3.0,"[-86.497591, 39.164731]","{'Type': 'Point', 'coordinates': [-86.497591, 39.164731]}"
-Starbucks,Bloomington,1.5,"[-86.49415, 39.16229]","{'Type': 'Point', 'coordinates': [-86.49415, 39.16229]}"
-Starbucks,Bloomington,3.0,"[-86.495222, 39.153735]","{'Type': 'Point', 'coordinates': [-86.495222, 39.153735]}"
-Starbucks,Bloomington,3.0,"[-86.573193, 39.1685005890888]","{'Type': 'Point', 'coordinates': [-86.573193, 39.1685005890888]}"

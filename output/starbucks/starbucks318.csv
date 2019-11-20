@@ -1,9 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Kalamazoo,3.0,"[-85.584317, 42.292029]","{'Type': 'Point', 'coordinates': [-85.584317, 42.292029]}"
-Starbucks,Kalamazoo,3.0,"[-85.614891, 42.259359]","{'Type': 'Point', 'coordinates': [-85.614891, 42.259359]}"
-Starbucks,Kalamazoo,2.5,"[-85.6452571, 42.2703601]","{'Type': 'Point', 'coordinates': [-85.6452571, 42.2703601]}"
-Starbucks,Kalamazoo,3.5,"[-85.6557494, 42.296564]","{'Type': 'Point', 'coordinates': [-85.6557494, 42.296564]}"
-Starbucks,Portage,3.0,"[-85.588968, 42.222078353595]","{'Type': 'Point', 'coordinates': [-85.588968, 42.222078353595]}"
-Starbucks,Kalamazoo,4.0,"[-85.6769, 42.24037]","{'Type': 'Point', 'coordinates': [-85.6769, 42.24037]}"
-Starbucks,Portage,2.5,"[-85.595189, 42.212886]","{'Type': 'Point', 'coordinates': [-85.595189, 42.212886]}"
-Starbucks,Kalamazoo,4.0,"[-85.51842, 42.325687]","{'Type': 'Point', 'coordinates': [-85.51842, 42.325687]}"

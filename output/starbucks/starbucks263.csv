@@ -1,9 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Petaluma,3.0,"[-122.63087, 38.243744]","{'Type': 'Point', 'coordinates': [-122.63087, 38.243744]}"
-Starbucks,Petaluma,3.0,"[-122.635342, 38.238625]","{'Type': 'Point', 'coordinates': [-122.635342, 38.238625]}"
-Starbucks,Petaluma,3.0,"[-122.628788, 38.25039]","{'Type': 'Point', 'coordinates': [-122.628788, 38.25039]}"
-Starbucks,Petaluma,3.5,"[-122.640743, 38.234675]","{'Type': 'Point', 'coordinates': [-122.640743, 38.234675]}"
-Starbucks,Petaluma,1.0,"[-122.621738, 38.249037]","{'Type': 'Point', 'coordinates': [-122.621738, 38.249037]}"
-Starbucks,Petaluma,3.0,"[-122.639403, 38.268555]","{'Type': 'Point', 'coordinates': [-122.639403, 38.268555]}"
-Starbucks,Petaluma,2.0,"[-122.599412, 38.23371]","{'Type': 'Point', 'coordinates': [-122.599412, 38.23371]}"
-Starbucks,Petaluma,3.5,"[-122.668159, 38.275986]","{'Type': 'Point', 'coordinates': [-122.668159, 38.275986]}"

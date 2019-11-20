@@ -1,7 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Buellton,2.5,"[-120.186836, 34.611206]","{'Type': 'Point', 'coordinates': [-120.186836, 34.611206]}"
-Starbucks,Orcutt,1.0,"[-120.417303, 34.863851]","{'Type': 'Point', 'coordinates': [-120.417303, 34.863851]}"
-Starbucks,Orcutt,3.5,"[-120.419198, 34.864635]","{'Type': 'Point', 'coordinates': [-120.419198, 34.864635]}"
-Starbucks,Lompoc,2.5,"[-120.457315, 34.661752]","{'Type': 'Point', 'coordinates': [-120.457315, 34.661752]}"
-Starbucks,Lompoc,3.5,"[-120.458965, 34.649457]","{'Type': 'Point', 'coordinates': [-120.458965, 34.649457]}"
-Starbucks,Lompoc,3.0,"[-120.453712, 34.638781]","{'Type': 'Point', 'coordinates': [-120.453712, 34.638781]}"

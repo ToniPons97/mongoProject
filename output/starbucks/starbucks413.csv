@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Scotts Valley,3.0,"[-122.027001, 37.044305]","{'Type': 'Point', 'coordinates': [-122.027001, 37.044305]}"
-Starbucks,Scotts Valley,2.5,"[-122.030426077545, 37.0473786755351]","{'Type': 'Point', 'coordinates': [-122.030426077545, 37.0473786755351]}"
-Starbucks,Scotts Valley,3.0,"[-122.030965, 37.046346]","{'Type': 'Point', 'coordinates': [-122.030965, 37.046346]}"
-Starbucks,Scotts Valley,3.5,"[-122.007104, 37.061374]","{'Type': 'Point', 'coordinates': [-122.007104, 37.061374]}"
-Starbucks,Santa Cruz,3.0,"[-122.021472, 36.979229]","{'Type': 'Point', 'coordinates': [-122.021472, 36.979229]}"

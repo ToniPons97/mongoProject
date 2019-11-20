@@ -1,4 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Bozeman,2.5,"[-111.052689, 45.678906]","{'Type': 'Point', 'coordinates': [-111.052689, 45.678906]}"
-Starbucks,Bozeman,3.5,"[-111.060297, 45.680204]","{'Type': 'Point', 'coordinates': [-111.060297, 45.680204]}"
-Starbucks,Bozeman,3.0,"[-111.063412, 45.696861]","{'Type': 'Point', 'coordinates': [-111.063412, 45.696861]}"

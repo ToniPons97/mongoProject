@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Ames,4.5,"[-93.619555, 42.020043]","{'Type': 'Point', 'coordinates': [-93.619555, 42.020043]}"
-Starbucks,Ames,2.5,"[-93.6150679, 42.023086]","{'Type': 'Point', 'coordinates': [-93.6150679, 42.023086]}"
-Starbucks,Ames,3.5,"[-93.646664, 42.022608]","{'Type': 'Point', 'coordinates': [-93.646664, 42.022608]}"
-Starbucks,Ames,1.0,"[-93.61036, 42.01984]","{'Type': 'Point', 'coordinates': [-93.61036, 42.01984]}"
-Starbucks,Ames,4.0,"[-93.669768, 42.021898]","{'Type': 'Point', 'coordinates': [-93.669768, 42.021898]}"

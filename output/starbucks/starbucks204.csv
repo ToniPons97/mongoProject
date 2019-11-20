@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Portsmouth,4.5,"[-70.783368, 43.033837]","{'Type': 'Point', 'coordinates': [-70.783368, 43.033837]}"
-Starbucks,Portsmouth,3.0,"[-70.7580583052803, 43.077044]","{'Type': 'Point', 'coordinates': [-70.7580583052803, 43.077044]}"
-Starbucks,Greenland,4.0,"[-70.816345, 43.04871]","{'Type': 'Point', 'coordinates': [-70.816345, 43.04871]}"
-Starbucks,Portsmouth,3.0,"[-70.792267, 43.092323]","{'Type': 'Point', 'coordinates': [-70.792267, 43.092323]}"
-Starbucks,Kittery,3.5,"[-70.734438, 43.11113683]","{'Type': 'Point', 'coordinates': [-70.734438, 43.11113683]}"

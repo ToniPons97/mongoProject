@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Branchburg,4.0,"[-74.68893, 40.605424]","{'Type': 'Point', 'coordinates': [-74.68893, 40.605424]}"
-Starbucks,Whitehouse Station,3.5,"[-74.764363, 40.620372]","{'Type': 'Point', 'coordinates': [-74.764363, 40.620372]}"
-Starbucks,BRIDGEWATER,3.0,"[-74.61843391, 40.585798]","{'Type': 'Point', 'coordinates': [-74.61843391, 40.585798]}"
-Starbucks,Bridgewater,3.0,"[-74.614864, 40.582956]","{'Type': 'Point', 'coordinates': [-74.614864, 40.582956]}"
-Starbucks,Somerville,3.5,"[-74.615974, 40.569077]","{'Type': 'Point', 'coordinates': [-74.615974, 40.569077]}"

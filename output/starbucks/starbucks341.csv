@@ -1,8 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Goleta,2.5,"[-119.832239, 34.441887]","{'Type': 'Point', 'coordinates': [-119.832239, 34.441887]}"
-Starbucks,Isla Vista,3.0,"[-119.855213, 34.413366]","{'Type': 'Point', 'coordinates': [-119.855213, 34.413366]}"
-Starbucks,Santa Barbara,3.0,"[-119.848143, 34.411595]","{'Type': 'Point', 'coordinates': [-119.848143, 34.411595]}"
-Starbucks,Goleta,3.0,"[-119.872441, 34.429522]","{'Type': 'Point', 'coordinates': [-119.872441, 34.429522]}"
-Starbucks,Goleta,2.0,"[-119.876258, 34.427787]","{'Type': 'Point', 'coordinates': [-119.876258, 34.427787]}"
-Starbucks,Goleta,4.5,"[-119.80399, 34.435772]","{'Type': 'Point', 'coordinates': [-119.80399, 34.435772]}"
-Starbucks,Santa Barbara,3.5,"[-119.788415823526, 34.4435277208427]","{'Type': 'Point', 'coordinates': [-119.788415823526, 34.4435277208427]}"

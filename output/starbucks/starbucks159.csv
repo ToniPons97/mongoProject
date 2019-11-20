@@ -1,8 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Missoula,2.5,"[-114.037099, 46.887594]","{'Type': 'Point', 'coordinates': [-114.037099, 46.887594]}"
-Starbucks,Missoula,1.0,"[-113.981347, 46.867592]","{'Type': 'Point', 'coordinates': [-113.981347, 46.867592]}"
-Starbucks,Missoula,3.0,"[-114.015308, 46.851073]","{'Type': 'Point', 'coordinates': [-114.015308, 46.851073]}"
-Starbucks,Missoula,3.0,"[-114.038867, 46.848499]","{'Type': 'Point', 'coordinates': [-114.038867, 46.848499]}"
-Starbucks,Missoula,3.5,"[-114.032925, 46.9143596]","{'Type': 'Point', 'coordinates': [-114.032925, 46.9143596]}"
-Starbucks,Missoula,4.0,"[-114.015426, 46.836107]","{'Type': 'Point', 'coordinates': [-114.015426, 46.836107]}"
-Starbucks,Missoula,3.0,"[-114.041118, 46.835042]","{'Type': 'Point', 'coordinates': [-114.041118, 46.835042]}"

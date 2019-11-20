@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,American Fork,1.0,"[-111.81582, 40.378895]","{'Type': 'Point', 'coordinates': [-111.81582, 40.378895]}"
-Starbucks,American Fork,3.0,"[-111.785836, 40.373621]","{'Type': 'Point', 'coordinates': [-111.785836, 40.373621]}"
-Starbucks,Lehi,4.0,"[-111.828979, 40.388789]","{'Type': 'Point', 'coordinates': [-111.828979, 40.388789]}"
-Starbucks,Lehi,3.0,"[-111.824213, 40.429982]","{'Type': 'Point', 'coordinates': [-111.824213, 40.429982]}"
-Starbucks,Pleasant Grove,5.0,"[-111.7655411, 40.35350304]","{'Type': 'Point', 'coordinates': [-111.7655411, 40.35350304]}"

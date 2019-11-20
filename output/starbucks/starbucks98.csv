@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Melbourne,3.0,"[144.9652, -37.81789]","{'Type': 'Point', 'coordinates': [144.9652, -37.81789]}"
-Starbucks,Melbourne,3.0,"[144.966183, -37.813386]","{'Type': 'Point', 'coordinates': [144.966183, -37.813386]}"
-Starbucks,Melbourne,5.0,"[144.96293, -37.8145499]","{'Type': 'Point', 'coordinates': [144.96293, -37.8145499]}"
-Starbucks,Melbourne,3.5,"[144.964462, -37.811294]","{'Type': 'Point', 'coordinates': [144.964462, -37.811294]}"
-Starbucks,Melbourne,3.5,"[144.952781, -37.816763]","{'Type': 'Point', 'coordinates': [144.952781, -37.816763]}"

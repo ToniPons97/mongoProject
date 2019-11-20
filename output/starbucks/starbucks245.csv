@@ -1,7 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Brookhaven,3.0,"[-75.395543, 39.876616]","{'Type': 'Point', 'coordinates': [-75.395543, 39.876616]}"
-Starbucks,Wilmington,3.5,"[-75.504818, 39.8017518]","{'Type': 'Point', 'coordinates': [-75.504818, 39.8017518]}"
-Starbucks,Chester,2.5,"[-75.34852376, 39.85096099]","{'Type': 'Point', 'coordinates': [-75.34852376, 39.85096099]}"
-Starbucks,Glen Mills,3.5,"[-75.52757, 39.880962]","{'Type': 'Point', 'coordinates': [-75.52757, 39.880962]}"
-Starbucks,Wilmington,2.5,"[-75.540702, 39.830767]","{'Type': 'Point', 'coordinates': [-75.540702, 39.830767]}"
-Starbucks,Media,3.0,"[-75.380106, 39.915694]","{'Type': 'Point', 'coordinates': [-75.380106, 39.915694]}"

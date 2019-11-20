@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Duluth,4.0,"[-92.103152, 46.783324]","{'Type': 'Point', 'coordinates': [-92.103152, 46.783324]}"
-Starbucks,Duluth,2.5,"[-92.14252564, 46.80073859]","{'Type': 'Point', 'coordinates': [-92.14252564, 46.80073859]}"
-Starbucks,Duluth,4.0,"[-92.156544, 46.806011]","{'Type': 'Point', 'coordinates': [-92.156544, 46.806011]}"
-Starbucks,Duluth,5.0,"[-92.077662, 46.8172985]","{'Type': 'Point', 'coordinates': [-92.077662, 46.8172985]}"
-Starbucks,Duluth,3.0,"[-92.16501, 46.808502]","{'Type': 'Point', 'coordinates': [-92.16501, 46.808502]}"

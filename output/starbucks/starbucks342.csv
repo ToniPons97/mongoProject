@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Glen Cove,3.0,"[-73.63113, 40.865982]","{'Type': 'Point', 'coordinates': [-73.63113, 40.865982]}"
-Starbucks,Glen Cove,3.0,"[-73.634926, 40.849151]","{'Type': 'Point', 'coordinates': [-73.634926, 40.849151]}"
-Starbucks,Brookfield,2.0,"[-73.596705, 40.817502]","{'Type': 'Point', 'coordinates': [-73.596705, 40.817502]}"
-Starbucks,Greenvale,2.5,"[-73.627238, 40.809481]","{'Type': 'Point', 'coordinates': [-73.627238, 40.809481]}"
-Starbucks,Port Washington,2.0,"[-73.688419, 40.830427]","{'Type': 'Point', 'coordinates': [-73.688419, 40.830427]}"

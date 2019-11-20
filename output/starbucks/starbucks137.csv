@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Gainesville,4.5,"[-82.390475, 29.702828]","{'Type': 'Point', 'coordinates': [-82.390475, 29.702828]}"
-Starbucks,Gainesville,4.0,"[-82.394436, 29.689005]","{'Type': 'Point', 'coordinates': [-82.394436, 29.689005]}"
-Starbucks,Newberry,4.0,"[-82.479638, 29.656434]","{'Type': 'Point', 'coordinates': [-82.479638, 29.656434]}"
-Starbucks,Gainesville,2.5,"[-82.414238, 29.659174]","{'Type': 'Point', 'coordinates': [-82.414238, 29.659174]}"
-Starbucks,Gainesville,3.0,"[-82.410888, 29.65641]","{'Type': 'Point', 'coordinates': [-82.410888, 29.65641]}"

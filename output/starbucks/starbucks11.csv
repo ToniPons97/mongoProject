@@ -1,5 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Marblehead,2.5,"[-70.855935, 42.50263]","{'Type': 'Point', 'coordinates': [-70.855935, 42.50263]}"
-Starbucks,Salem,3.5,"[-70.894913, 42.518984]","{'Type': 'Point', 'coordinates': [-70.894913, 42.518984]}"
-Starbucks,Swampscott,2.0,"[-70.90312, 42.48284]","{'Type': 'Point', 'coordinates': [-70.90312, 42.48284]}"
-Starbucks,Beverly,2.5,"[-70.890354, 42.55626]","{'Type': 'Point', 'coordinates': [-70.890354, 42.55626]}"

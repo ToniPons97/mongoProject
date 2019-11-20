@@ -1,6 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,University Park,3.5,"[-77.861541, 40.798206]","{'Type': 'Point', 'coordinates': [-77.861541, 40.798206]}"
-Starbucks,State College,3.0,"[-77.856127, 40.797431]","{'Type': 'Point', 'coordinates': [-77.856127, 40.797431]}"
-Starbucks,State College,2.5,"[-77.863554, 40.792816]","{'Type': 'Point', 'coordinates': [-77.863554, 40.792816]}"
-Starbucks,State College,2.5,"[-77.907447, 40.809036]","{'Type': 'Point', 'coordinates': [-77.907447, 40.809036]}"
-Starbucks,State College,1.0,"[-77.906843, 40.812569]","{'Type': 'Point', 'coordinates': [-77.906843, 40.812569]}"

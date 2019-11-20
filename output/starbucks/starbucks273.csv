@@ -1,5 +1,0 @@
-Name,City,Raiting,Coordinates,Geometry
-Starbucks,Park City,3.0,"[-111.506927010062, 40.6577962948216]","{'Type': 'Point', 'coordinates': [-111.506927010062, 40.6577962948216]}"
-Starbucks,Park City,3.0,"[-111.507004, 40.657841]","{'Type': 'Point', 'coordinates': [-111.507004, 40.657841]}"
-Starbucks,Park City,1.0,"[-111.507018, 40.659407]","{'Type': 'Point', 'coordinates': [-111.507018, 40.659407]}"
-Starbucks,Park City,2.5,"[-111.540823, 40.72212]","{'Type': 'Point', 'coordinates': [-111.540823, 40.72212]}"
