@@ -26,10 +26,11 @@ def get_coords(company, city):
     coords_2 = []
 
     for i in api_response["businesses"]:
-        coords.append(i["coordinates"])
-        names.append(i["name"])
-        city.append(i["location"]["city"])
-        yelp_rating.append(i["rating"])
+        if i["coodinates"] != None:
+            coords.append(i["coordinates"])
+            names.append(i["name"])
+            city.append(i["location"]["city"])
+            yelp_rating.append(i["rating"])
 
     for i in coords:
         coords_list.append([i["longitude"], i["latitude"]])
@@ -38,7 +39,7 @@ def get_coords(company, city):
         longitude = coords_list[i][0]
         latitude = coords_list[i][1]
         coords_2.append(
-            {"Type": "Point", "coordinates": [longitude, latitude]})
+            {"type": "Point", "coordinates": [longitude, latitude]})
 
     yelp_dict = {"Name": names, "City": city, "Raiting": yelp_rating,
                  "Coordinates": coords_list, "Geometry": coords_2}
