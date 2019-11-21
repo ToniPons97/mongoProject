@@ -26,11 +26,10 @@ def get_coords(company, city):
     coords_2 = []
 
     for i in api_response["businesses"]:
-        if i["coodinates"] != None:
-            coords.append(i["coordinates"])
-            names.append(i["name"])
-            city.append(i["location"]["city"])
-            yelp_rating.append(i["rating"])
+        coords.append(i["coordinates"])
+        names.append(i["name"])
+        city.append(i["location"]["city"])
+        yelp_rating.append(i["rating"])
 
     for i in coords:
         coords_list.append([i["longitude"], i["latitude"]])
