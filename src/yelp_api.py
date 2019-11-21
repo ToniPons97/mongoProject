@@ -13,7 +13,7 @@ headers = {'Authorization': 'Bearer %s' % api_key}
 def get_coords(company, city):
     params = {'term': company, 'location': city, "limit": 50}
     req = requests.get(search_url, params=params, headers=headers)
-    print('The status code is {}'.format(req.status_code))
+    #print('The status code is {}'.format(req.status_code))
 
     api_response = json.loads(req.text)
 
